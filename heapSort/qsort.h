@@ -43,6 +43,7 @@ void quickSort(T* A, int begin, int size)
 	}
 }
 
+
 /*
  * \method   parttion
  * \author	 lvwei
