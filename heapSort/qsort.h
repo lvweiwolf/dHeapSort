@@ -89,3 +89,4 @@ int parttion(T* A, int begin, int size)
 		return -1;
 	}
 }
+
